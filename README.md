@@ -20,7 +20,6 @@ Now, it's time to take what you've learned about Python Pandas and apply it to n
 
 ## Option 1: Heroes of Pymoli
 
-![Fantasy](Images/Fantasy.png)
 
 Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
@@ -96,7 +95,6 @@ As final considerations:
 
 ## Option 2: PyCitySchools
 
-![Education](Images/education.png)
 
 Well done! Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. In your latest role, you've become the Chief Data Scientist for your city's school district. In this capacity, you'll be helping the  school board and mayor make strategic decisions regarding future school budgets and priorities.
 
@@ -192,6 +190,4 @@ As final considerations:
 
 * As always, feel encouraged to work in groups and get help from your TAs and Instructor. Just remember, true success comes from mastery and _not_ a completed homework assignment. So challenge yourself to truly succeed!
 
-### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
